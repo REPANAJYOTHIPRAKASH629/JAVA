@@ -1,0 +1,43 @@
+Use of languages & History of Java
+
+Uses of Languages
+
+1. To build the communication between user and computer
+2. Set of instructions are called program
+3. To build the logical analysis (to reduce the time execution of the program)
+4. Software's 
+    - System Software
+        1. single user →DOS
+        2. Multi user → windows, linux, mac
+    - Application Software
+        1. Console —> dos —>c/c++/java
+        2. windows or desktop —>GUI
+        3. web applications —> net
+
+
+        
+    - **History of Java**
+        
+        basic
+        
+        cobol
+        
+        pascal
+        
+        fortron
+        
+        algol —> ascii (Algorithmic programming language)
+        
+        cpl —>Ascii (computer programming language)
+        
+        bcpl —>martin (basic combined programming language)
+        
+        “B” —> Ken
+        
+        “C” —> 1972 AT & T Bell
+        
+        “C++” —>1982 AT & T bell
+        
+        1991 —> oak —>used for remote controls (ovens, media players)
+        
+        1995 —> Java —>

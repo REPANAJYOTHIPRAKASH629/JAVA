@@ -1,0 +1,24 @@
+- **Advantages of Java and Keywords**
+    - **Advantages of Java**
+        1. Simple oriented programming languages
+        2. OOPS - Object Oriented Programming System
+        3. Dynamic oriented language
+        4. Secured Programming language
+        5. Robust
+        6. Supports both Compilers and Interpreters
+        7. Platform Independent
+        8. Application portability
+        9. Multi threaded
+
+        
+    - **Key words**
+        
+        51 key words
+        
+        int, double, String, void, static, public, private, protect, default, 
+        
+    - **Disadvantages**
+        1. Performance
+        2. memory consumption
+        3. cost
+        4. less machine interaction
