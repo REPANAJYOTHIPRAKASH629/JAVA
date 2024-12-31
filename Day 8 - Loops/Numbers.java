@@ -7,6 +7,7 @@ class Numbers
 		int n, i;
 		Scanner sc = new Scanner(System.in);
 		n = sc.nextInt();
+		sc.close();
 		for(i = 1; i <= n; i++)
 		{
 			System.out.println(i);

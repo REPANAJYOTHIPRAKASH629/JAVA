@@ -7,6 +7,7 @@ class OddNumbers
 		int n, i;
 		Scanner sc = new Scanner(System.in);
 		n = sc.nextInt(); 
+		sc.close();
 		for(i=1; i<=n; i++)
 		{
 			if( i % 2 != 0)

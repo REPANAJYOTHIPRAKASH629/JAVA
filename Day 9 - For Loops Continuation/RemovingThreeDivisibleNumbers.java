@@ -8,6 +8,7 @@ class RemovingThreeDivisibleNumbers
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter n value ");
 		n = sc.nextInt();
+		sc.close();
 		for(i=1; i<=n; i++)
 		{
 			if(i % 3 == 0)

@@ -7,6 +7,7 @@ class Pro75
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter n value : ");
 		n = sc.nextInt();
+		sc.close();
 		while(n > 0)
 		{
 			r = n % 10;

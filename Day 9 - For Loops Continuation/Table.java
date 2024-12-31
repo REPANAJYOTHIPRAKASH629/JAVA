@@ -9,6 +9,7 @@ class Table
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter n value ");
 		n = sc.nextInt();
+		sc.close();
 		for(i=1; i<=10; i++)
 		{
 			System.out.println(n + " * " + i + " = " + (n*i));

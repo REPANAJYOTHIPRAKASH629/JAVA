@@ -7,6 +7,7 @@ class Pro79
 		Scanner sc = new Scanner(System.in);
 		x = sc.nextInt();
 		y = sc.nextInt();
+		sc.close();
 		while( k <= y)
 		{
 			p = p * x;

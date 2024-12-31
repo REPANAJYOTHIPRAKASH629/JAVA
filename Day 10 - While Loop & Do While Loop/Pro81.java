@@ -20,7 +20,7 @@ class Pro81
 			
 			System.out.println("Enter your choice : ");
 			x = sc.nextInt();
-			
+			sc.close();
 			switch(x)
 			{
 				case 1 : 

@@ -8,6 +8,7 @@ class Pro78
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter n value : ");
 		n = sc.nextInt();
+		sc.close();
 		System.out.println(t1);
 		System.out.println(t2);
 		t3 = t1 + t2;

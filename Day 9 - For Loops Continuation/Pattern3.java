@@ -8,6 +8,7 @@ class Pattern3
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter n value : ");
 		n = sc.nextInt();
+		sc.close();
 		for(i = n; i >= 1; i--)
 		{
 			for(j = 1; j <= i; j++)

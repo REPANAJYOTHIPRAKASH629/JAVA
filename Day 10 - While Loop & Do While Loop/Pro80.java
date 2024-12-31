@@ -7,6 +7,7 @@ class Pro9
 		int n, i=1;
 		Scanner sc = new Scanner(System.in);
 		n = sc.nextInt();
+		sc.close();
 		do
 		{
 			System.out.println(i);

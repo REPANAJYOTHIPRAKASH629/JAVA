@@ -7,6 +7,7 @@ class ReverseOrder
 		int n, i;
 		Scanner sc = new Scanner(System.in);
 		n = sc.nextInt(); 
+		sc.close();
 		for(i = n; i > 0; i--)
 		{
 			System.out.println(i);

@@ -9,6 +9,7 @@ class Name1
 		int n, i;
 		Scanner a = new Scanner(System.in);
 		n = a.nextInt(); 
+		a.close();
 		for(i = 0; i<=n; i++)
 		{
 			System.out.println("Jyothi Prakash");

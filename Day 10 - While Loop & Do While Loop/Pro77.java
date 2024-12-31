@@ -29,5 +29,6 @@ class Pro
 		{
 			System.out.println("Not Strong number");
 		}
+		sc.close();
 	}
 }

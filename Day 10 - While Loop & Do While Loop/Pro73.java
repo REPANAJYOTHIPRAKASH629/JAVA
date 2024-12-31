@@ -7,6 +7,7 @@ class Pro73
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter n value : ");
 		n = sc.nextInt();
+		sc.close();
 		m = n;
 		while(n > 0)
 		{
